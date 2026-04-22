@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### Minhas Estatísticas GitHub
-![Estatísticas do seuusuario](https://vercel.app)
+![Estatísticas do mmazanti](https://vercel.app)
 
 ### Linguagens Mais Utilizadas
-![Linguagens do seuusuario](https://vercel.app)
+![Linguagens do mmazanti](https://vercel.app)
 
 <!--
 **mmazanti/mmazanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
