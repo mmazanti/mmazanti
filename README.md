@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-### Minhas Estatísticas GitHub
-![Estatísticas do mmazanti](https://vercel.app)
-
-### Linguagens Mais Utilizadas
-![Linguagens do mmazanti](https://vercel.app)
+<div>
+<a href="https://github.com/mmazanti">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmazanti&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mmazanti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **mmazanti/mmazanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
